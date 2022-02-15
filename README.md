@@ -4,7 +4,9 @@
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Alex_Skyer?style=social)](https://twitter.com/Alex_Skyer)
+</br>
 Linkedin: Alexandre Skyer (https://www.linkedin.com/in/alexandre-borges-84224216/)
+</br>
 [![GitHub AlexSkyer](https://img.shields.io/github/followers/AlexandreSkyer?label=follow&style=social)](https://github.com/AlexandreSkyer)
 
 
