@@ -1,5 +1,5 @@
 <h2> Hi, I'm Alexadre Skyer, but u can call me Alex Skyer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="https://estacio.br">University of Rio de Janeiro</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.m2nl.com">M2NL</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>FrontEnd Developer at <a href="https://ativasolucoes.com.br/">Ativa Soluções</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.m2nl.com">M2NL</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Alex Skyer](https://img.shields.io/twitter/follow/Alex_Skyer?style=social)](https://twitter.com/Alex_Skyer)
