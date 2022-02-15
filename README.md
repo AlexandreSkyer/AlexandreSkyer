@@ -1,9 +1,9 @@
 <h2> Hi, I'm Alexadre Skyer, but u can call me Alex Skyer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Rio de Janeiro</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.m2nl.com">M2NL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Rio de Janeiro</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.m2nl.com">M2NL</a>
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Alex_Skyer?style=social)](https://twitter.com/Alex_Skyer)
+[![Twitter: Alex Skyer](https://img.shields.io/twitter/follow/Alex_Skyer?style=social)](https://twitter.com/Alex_Skyer)
 </br>
 Linkedin: Alexandre Skyer (https://www.linkedin.com/in/alexandre-borges-84224216/)
 </br>
@@ -13,7 +13,7 @@ Linkedin: Alexandre Skyer (https://www.linkedin.com/in/alexandre-borges-84224216
 ###  A little more about me...  
 
 ```javascript
-const thai = {
+const skyer = {
   pronouns: "he" | "master",
   code: [Javascript, Typescript, HTML, CSS, C#, Python],
   tools: [React, Redux, Node, Storybook, Styled-Components, Css-in-js, Docker],
