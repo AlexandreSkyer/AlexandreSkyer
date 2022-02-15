@@ -4,9 +4,8 @@
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Alex_Skyer?style=social)](https://twitter.com/Alex_Skyer)
-[![Linkedin: Alexandre Skyer]
-(https://www.linkedin.com/in/alexandre-borges-84224216/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+Linkedin: Alexandre Skyer (https://www.linkedin.com/in/alexandre-borges-84224216/)
+[![GitHub AlexSkyer](https://img.shields.io/github/followers/AlexandreSkyer?label=follow&style=social)](https://github.com/AlexandreSkyer)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
