@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Alex_Skyer?style=social)](https://twitter.com/Alex_Skyer)
-[![Linkedin: Alexandre Skyer](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-borges-84224216)]
+[![Linkedin: Alexandre Skyer]
 (https://www.linkedin.com/in/alexandre-borges-84224216/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
