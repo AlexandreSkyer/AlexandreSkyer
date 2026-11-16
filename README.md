@@ -1,33 +1,105 @@
-<h2> Hi, I'm Alexadre Skyer, but u can call me Alex Skyer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>FrontEnd Developer at <a href="https://ativasolucoes.com.br/">Ativa Soluções</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.m2nl.com">M2NL</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hey there! I'm Alex Skyer! 👋
 
-[![Twitter: Alex Skyer](https://img.shields.io/twitter/follow/Alex_Skyer?style=social)](https://twitter.com/Alex_Skyer)
-</br>
-Linkedin: Alexandre Skyer (https://www.linkedin.com/in/alexandre-borges-84224216/)
-</br>
-[![GitHub AlexSkyer](https://img.shields.io/github/followers/AlexandreSkyer?label=follow&style=social)](https://github.com/AlexandreSkyer)
+### 💻 Software Developer | 🎮 Indie Game Developer | 🎸 Musician & Composer
 
+Welcome to my GitHub! I'm a Brazilian software developer, independent game creator, musician, and songwriter.
 
-###  A little more about me...  
-
-```javascript
-const skyer = {
-  pronouns: "he" | "master",
-  code: [Javascript, Typescript, HTML, CSS, C#, Python],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Css-in-js, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "Skyer Channel",
-                        speaker: "Chuck Norris",
-                        mentor: "Obi Wan Kenoby"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+I love bringing ideas to life through **code, games, music, and technology**.
 
 ---
 
-⭐️ From [@AlexSkyer](https://github.com/AlexandreSkyer)
+## 👨‍💻 About Me
+
+- 💻 Software developer working with **C#, .NET, Angular, TypeScript, and SQL Server**.
+- 🎮 Creator of **Skyer Games**, my independent game development project.
+- ⚔️ Currently developing a **3D Tactical RPG** with Unreal Engine 5 and C++.
+- 🎨 Exploring Blender, 3D game development, and AI-assisted creative workflows.
+- 🎸 Singer, songwriter, and composer performing as **Alex Skyer**.
+- 🎵 Creator of the musical project **Do Inferno aos Céus**.
+- 🎬 Creator of **Skyer Channel**, a creative universe connecting music, games, fantasy, and technology.
+- 🇧🇷 Based in Brazil.
+
+## 🛠️ Technologies & Tools
+
+**Software Development**
+
+C# • .NET • ASP.NET Core • Angular • TypeScript • JavaScript • SQL Server • Entity Framework Core • REST APIs
+
+**Game Development**
+
+Unreal Engine 5 • C++ • Blender • Game Design • Gameplay Systems
+
+**Development & Collaboration**
+
+Git • GitHub • Visual Studio • VS Code • Azure DevOps • AI-assisted Development
+
+---
+
+## 🎮 Skyer Games
+
+I'm building my own game development universe, combining classic gameplay inspirations with modern technology.
+
+### ⚔️ Tactical RPG — In Development
+
+A fantasy tactical RPG featuring:
+
+- Turn-based combat with free 3D movement.
+- Tactical environments with elevation and verticality.
+- A deep job and character progression system.
+- Individual job mastery and permanent passive abilities.
+- Cinematic abilities, legendary summons, and branching narratives.
+
+**Built with Unreal Engine 5 and C++.**
+
+### 🥊 Beat 'em Up RPG — Concept Stage
+
+An urban martial arts RPG featuring character progression, multiple fighting styles, exploration, and story-driven choices.
+
+---
+
+## 🎸 Alex Skyer — Music
+
+Music has always been an important part of my creative journey.
+
+As **Alex Skyer**, I write and perform original songs blending rock, melodic metal, pop rock, electronic music, and orchestral influences.
+
+### 🎵 Do Inferno aos Céus
+
+My musical project explores love, dreams, hope, and personal transformation.
+
+Some of my original songs include:
+
+- The Morning Star
+- A Estrada
+- O Tempo
+- Yvora
+- Nova
+- VAN
+
+🎬 **YouTube:** [Skyer Channel](https://www.youtube.com/@skyerchannel)
+
+📸 **Instagram:** [@skyerchannel](https://www.instagram.com/skyerchannel/)
+
+---
+
+## 🌌 My Philosophy
+
+**"Every great adventure begins with an idea."**
+
+Whether I'm writing code, designing a fantasy world, or composing a song, my goal is the same: create something meaningful that people can experience and remember.
+
+---
+
+## 🤝 Let's Connect!
+
+💼 [LinkedIn](https://www.linkedin.com/in/alexandre-borges-84224216/)
+
+🎬 [YouTube — Skyer Channel](https://www.youtube.com/@skyerchannel)
+
+📸 [Instagram — Skyer Channel](https://www.instagram.com/skyerchannel/)
+
+💻 [GitHub — AlexandreSkyer](https://github.com/AlexandreSkyer)
+
+---
+
+*Thanks for visiting! Feel free to explore my projects and follow my journey through software, games, and music.* 🚀
