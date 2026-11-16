@@ -6,6 +6,8 @@ Welcome to my GitHub! I'm a Brazilian software developer, independent game creat
 
 I love bringing ideas to life through **code, games, music, and technology**.
 
+**One developer. Multiple creative universes. Infinite side quests.** 🚀
+
 ---
 
 ## 👨‍💻 About Me
@@ -18,6 +20,8 @@ I love bringing ideas to life through **code, games, music, and technology**.
 - 🎵 Creator of the musical project **Do Inferno aos Céus**.
 - 🎬 Creator of **Skyer Channel**, a creative universe connecting music, games, fantasy, and technology.
 - 🇧🇷 Based in Brazil.
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -35,6 +39,116 @@ Git • GitHub • Visual Studio • VS Code • Azure DevOps • AI-assisted De
 
 ---
 
+## 😎 A Little More About Me...
+
+```javascript
+const skyer = {
+  name: "Alex Skyer",
+  characterClass: "Developer / Game Creator / Bard",
+  alignment: "Chaotic Creative",
+  pronouns: ["he", "master"],
+
+  attributes: {
+    creativity: 99,
+    curiosity: 100,
+    persistence: 95,
+    patienceWithBugs: 3,
+    coffeeDependency: "Legendary",
+    imagination: Infinity
+  },
+
+  skills: {
+    programming: [
+      "C#", ".NET", "Angular", "TypeScript",
+      "JavaScript", "C++", "SQL", "Python"
+    ],
+
+    gameDevelopment: [
+      "Unreal Engine 5",
+      "Blender",
+      "Game Design",
+      "Gameplay Programming",
+      "Worldbuilding"
+    ],
+
+    music: [
+      "Songwriting",
+      "Vocals",
+      "Guitar",
+      "Music Production",
+      "Making epic soundtracks"
+    ]
+  },
+
+  inventory: [
+    "Visual Studio",
+    "VS Code",
+    "Git",
+    "Unreal Engine",
+    "Blender",
+    "One suspiciously large backlog",
+    "A guitar",
+    "Too many ideas"
+  ],
+
+  party: {
+    leader: "Alex Skyer",
+    architect: "GePeTo (ChatGPT)",
+    programmer: "Codex",
+    codeReviewer: "Google Antigravity",
+    legendaryMentor: "Obi-Wan Kenobi",
+    guestSpeaker: "Chuck Norris"
+  },
+
+  activeQuests: {
+    mainQuest: "Build the Skyer Games universe",
+    tacticalRPG: "In Development",
+    beatEmUpRPG: "Concept Stage",
+    musicAlbum: "Do Inferno aos Céus",
+    skyerChannel: "Create, imagine, repeat"
+  },
+
+  combatSystem: {
+    primaryWeapon: "Keyboard",
+    secondaryWeapon: "Guitar",
+    specialAttack: "git commit -m 'It finally works!'",
+    ultimateAbility: "Ctrl + Z",
+    weakness: "It worked yesterday..."
+  },
+
+  achievements: [
+    "Survived production deployments",
+    "Defeated countless runtime exceptions",
+    "Composed original songs",
+    "Started an indie game studio"
+  ],
+
+  bossFights: [
+    "NullReferenceException",
+    "Merge Conflicts",
+    "Unreal Engine Compilation",
+    "The Final Bug (respawns infinitely)"
+  ],
+
+  mana: "Coffee + Music + Imagination",
+
+  philosophy: "Every great adventure begins with an idea.",
+
+  ultimateGoal: "Turn dreams into worlds people can explore."
+};
+
+// The adventure continues...
+while (skyer.attributes.imagination === Infinity) {
+  createSomethingAwesome();
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+*I love connecting with different people! If you want to say hi, I'll be happy to meet you!* 😁
+
+---
+
 ## 🎮 Skyer Games
 
 I'm building my own game development universe, combining classic gameplay inspirations with modern technology.
@@ -48,12 +162,15 @@ A fantasy tactical RPG featuring:
 - A deep job and character progression system.
 - Individual job mastery and permanent passive abilities.
 - Cinematic abilities, legendary summons, and branching narratives.
+- Challenging encounters, rare enemies, and unexpected battles.
 
 **Built with Unreal Engine 5 and C++.**
 
 ### 🥊 Beat 'em Up RPG — Concept Stage
 
 An urban martial arts RPG featuring character progression, multiple fighting styles, exploration, and story-driven choices.
+
+**Skyer Games development philosophy:** Classic inspirations, original worlds, and gameplay-first design.
 
 ---
 
@@ -75,6 +192,8 @@ Some of my original songs include:
 - Yvora
 - Nova
 - VAN
+- Tesouro dos Céus
+- Amor de Ilusões
 
 🎬 **YouTube:** [Skyer Channel](https://www.youtube.com/@skyerchannel)
 
@@ -87,6 +206,8 @@ Some of my original songs include:
 **"Every great adventure begins with an idea."**
 
 Whether I'm writing code, designing a fantasy world, or composing a song, my goal is the same: create something meaningful that people can experience and remember.
+
+*Some people play RPGs. I decided to build one.* ⚔️
 
 ---
 
@@ -103,3 +224,5 @@ Whether I'm writing code, designing a fantasy world, or composing a song, my goa
 ---
 
 *Thanks for visiting! Feel free to explore my projects and follow my journey through software, games, and music.* 🚀
+
+**May the code compile, the music play, and the adventure never end!** 🎮🎸
